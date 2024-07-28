@@ -1,0 +1,14 @@
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\bin\Debug\net8.0\TaxPayer.exe
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\bin\Debug\net8.0\TaxPayer.deps.json
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\bin\Debug\net8.0\TaxPayer.runtimeconfig.json
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\bin\Debug\net8.0\TaxPayer.dll
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\bin\Debug\net8.0\TaxPayer.pdb
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\TaxPayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\TaxPayer.AssemblyInfoInputs.cache
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\TaxPayer.AssemblyInfo.cs
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\TaxPayer.csproj.CoreCompileInputs.cache
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\TaxPayer.dll
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\refint\TaxPayer.dll
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\TaxPayer.pdb
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\TaxPayer.genruntimeconfig.cache
+C:\Users\fchav\Documents\Dev\CursoSharp\GitHub\TaxPayer\obj\Debug\net8.0\ref\TaxPayer.dll
